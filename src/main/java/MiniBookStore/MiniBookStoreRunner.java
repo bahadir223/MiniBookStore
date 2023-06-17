@@ -35,6 +35,7 @@ public class MiniBookStoreRunner {
     private static void start() {
         Scanner input = new Scanner(System.in);
         String secim;
+
         do {
             System.out.println("************************* Mini Book Store ************************* ");
             System.out.println("Ürün Yönetim Paneli");
